@@ -1,0 +1,6 @@
+Steps undergone in this project
+
+Step 1:Create student data file with student name and age
+Step 2:Write Code to Sort Student by Name and Age
+Step 3:Wrie Code to Search Student by Name
+Step 4:Get Output
