@@ -1,5 +1,5 @@
-Ishu         11
-Aishwarya    16
-Simbu        18
-Sinduja      13
-Subanki      17
+Ishu         11      A
+Aishwarya    16      B
+Simbu        18      A
+Sinduja      13      A
+Subanki      17      C
